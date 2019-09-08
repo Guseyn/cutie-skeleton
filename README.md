@@ -1,2 +1,2 @@
 # cutie-skeleton
-Cli tool for creating skeletons of cutie extensions.
+Cli tool which creates skeletons for cutie extensions.
